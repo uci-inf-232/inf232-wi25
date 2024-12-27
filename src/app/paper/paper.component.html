@@ -8,7 +8,7 @@
                 {{c>2 && isLast ? 'and ':''}}{{c==2 && isLast ? ' and ':''}}{{author}}{{c>2&&i!=c-1?', ':''}}{{isLast?'.':''}}
             </span>
         }
-        <a [href]="paper.link">{{paper.title}}</a>. {{paper.venue}}@if(paper.date) {.}@if(paper.volume) { {{paper.volume}}}@if(paper.issue) {, {{paper.issue}}}@if(paper.date) { ({{paper.date}}).}
+        <a [href]="paper.link">{{paper.title}}</a>. @if(paper.venue){ {{paper.venue}}@if(paper.date) {.}}@if(paper.volume) { {{paper.volume}}}@if(paper.issue) {, {{paper.issue}}}@if(paper.date) { ({{paper.date}}).}
         &nbsp;
         @if(paper.notes) {
             <span class="note">Note: {{paper.notes}}</span>

@@ -252,6 +252,7 @@
 			"date": "2025-03-11",
 			"type": "class",
 			"title": "Subcommittee Grab Bag",
+			"leaders": ["Daniel"],
 			"venues": [
 				{
 					"name": "DIS",
@@ -281,6 +282,7 @@
 			"date": "2025-03-13",
 			"type": "class",
 			"title": "HCI Research & Publication Process",
+			"leaders": ["Daniel"],
 			"readings": [
 			]
 		},
