@@ -35,7 +35,8 @@
 					"link": "https://people.cs.vt.edu/srh/Downloads/HCIJournalTheThreeParadigmsofHCI.pdf",
 					"optional": true
 				}
-			]
+			],
+			"slides": "slides/01_07_25-introduction.pdf"
 		},
 		{
 			"date": "2025-01-09",
@@ -59,8 +60,7 @@
 					"date": "2024",
 					"optional":true
 				}
-			],
-			"slides": "slides/01_07_25-introduction.pdf"
+			]
 		},
 		{
 			"date": "2025-01-10",
