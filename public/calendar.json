@@ -111,16 +111,55 @@
 		{
 			"date": "2025-01-21",
 			"type": "class",
-			"title": "Overview of TBD",
+			"title": "Overview of Health",
+			"leaders": ["Colin", "Ziqi"],
 			"venues": [
+				{
+					"name": "CHI Subcommittee",
+					"link": "https://chi2025.acm.org/subcommittees/selecting-a-subcommittee/#health"
+				},
+				{
+					"name": "JAMIA",
+					"link": "https://academic.oup.com/jamia/pages/General_Instructions",
+					"notes": "Read 'About the Journal'"
+				},
+				{
+					"name": "AMIA",
+					"link": "https://amia.org/education-events/amia-2025-informatics-summit/call-participation",
+					"notes": "Read 'Programmatic Themes'"
+				}
 			],
 			"readings": [
+				{
+					"authors": ["Predrag Klasnja", "Sunny Consolvo", "Wanda Pratt"],
+					"title": "How to Evaluate Technologies for Health Behavior Change in HCI Research",
+					"venue": "CHI",
+					"date": "2011",
+					"link": "https://dl.acm.org/doi/abs/10.1145/1978942.1979396"
+				},
+				{
+					"authors": ["Geraldine Fitzpatrick", "Gunnar Ellingsen"],
+					"title": "A Review of 25 dates of CSCW Research in Healthcare: Contributions, Challenges, and Future Agendas",
+					"venue": "Computer Supported Cooperative Work (CSCW)",
+					"volume": 22,
+					"date": "2013",
+					"link": "https://link.springer.com/article/10.1007/s10606-012-9168-0"
+				},
+				{
+					"authors": ["Pedro Sanches", "Axel Janson", "Pavel Karpashevich", "Camille Nadal", "Chengcheng Qu", "Claudia Daudén Roquet", "Muhammad Umair", "Charles Windlin", "Gavin Doherty", "Kristina Höök", "Corina Sas"],
+					"title": "HCI and Affective Health: Taking Stock of a Decade of Studies and Charting Future Research Directions",
+					"venue": "CHI",
+					"date": "2019",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3290605.3300475",
+					"optional": true
+				}
 			]
 		},
 		{
 			"date": "2025-01-23",
 			"type": "class",
-			"title": "Discussion of TBD",
+			"title": "Discussion of Health",
+			"leaders": ["Colin", "Ziqi"],
 			"readings": [
 			]
 		},
