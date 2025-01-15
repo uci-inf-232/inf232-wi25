@@ -171,78 +171,7 @@
 			"link": "https://canvas.eee.uci.edu/courses/69569/assignments/1511073"
 		},
 		{
-			"date": "2025-01-30",
-			"type": "assignments",
-			"title": "Proposal 1 Groups",
-			"anchor": "proposal1groups"
-		},
-		{
 			"date": "2025-01-28",
-			"type": "class",
-			"title": "Overview of User Interface Software & Technology",
-			"leaders": ["David", "Diego", "Arianna"],
-			"venues": [
-				{
-					"name": "CHI Subcommittee (Building Devices)",
-					"link": "https://chi2025.acm.org/subcommittees/selecting-a-subcommittee/#building_devices"
-				},
-				{
-					"name": "CHI Subcommittee (Interacting with Devices)",
-					"link": "https://chi2025.acm.org/subcommittees/selecting-a-subcommittee/#interacting_devices"
-				},
-				{
-					"name": "CHI Subcommittee (Blending Interaction)",
-					"link": "https://chi2025.acm.org/subcommittees/selecting-a-subcommittee/#blending_interaction"
-				},
-				{
-					"name": "UIST",
-					"link": "https://uist.acm.org/2025/cfp/"
-				}
-			],
-			"readings": [
-				{
-					"authors":["Brad Myers", "Scott E. Hudson", "Randy Pausch"],
-					"title": "Past, Present, and Future of User Interface Sotware Tools",
-					"venue": "TOCHI",
-					"volume": 7,
-					"issue": 1,
-					"date": "2000",
-					"link": "https://dl.acm.org/doi/abs/10.1145/344949.344959"
-				},
-				{
-					"authors": ["Hiroshi Ishii", "Brygg Ullmer"],
-					"title": "Tangible Bits: Towards Seamless Interfaces between People, Bits and Atoms",
-					"venue": "CHI",
-					"date": "1997",
-					"link": "https://dl.acm.org/doi/10.1145/258549.258715"
-				},
-				{
-					"authors": ["Jun Rekimoto"],
-					"title": "Pick-and-drop: a Direct Manipulation Technique for Multiple Computer Envirionments",
-					"venue": "UIST",
-					"date": "1997",
-					"link": "https://dl.acm.org/doi/10.1145/263407.263505"
-				},
-				{
-					"authors":["James Fogarty"],
-					"title": "Code and Contribution in Interactive Systems Research",
-					"venue": "#HCI.Tools Workshop at CHI",
-					"date": "2017",
-					"link": "https://homes.cs.washington.edu/~jfogarty/publications/workshop-chi2017-codeandcontribution.pdf",
-					"optional": true
-				}
-			]
-		},
-		{
-			"date": "2025-01-30",
-			"type": "class",
-			"title": "Discussion of User Interface Software & Technology",
-			"leaders": ["David", "Diego", "Arianna"],
-			"readings": [
-			]
-		},
-		{
-			"date": "2025-02-04",
 			"type": "class",
 			"title": "Overview of Critical Computing, Sustainability, & Social Justice",
 			"leaders": ["Josa", "Sohyun"],
@@ -315,10 +244,81 @@
 			]
 		},
 		{
-			"date": "2025-02-06",
+			"date": "2025-01-30",
 			"type": "class",
 			"title": "Discussion of Critical Computing, Sustainability, & Social Justice",
 			"leaders": ["Josa", "Sohyun"],
+			"readings": [
+			]
+		},
+		{
+			"date": "2025-01-30",
+			"type": "assignments",
+			"title": "Proposal 1 Groups",
+			"anchor": "proposal1groups"
+		},
+		{
+			"date": "2025-02-04",
+			"type": "class",
+			"title": "Overview of User Interface Software & Technology",
+			"leaders": ["David", "Diego", "Arianna"],
+			"venues": [
+				{
+					"name": "CHI Subcommittee (Building Devices)",
+					"link": "https://chi2025.acm.org/subcommittees/selecting-a-subcommittee/#building_devices"
+				},
+				{
+					"name": "CHI Subcommittee (Interacting with Devices)",
+					"link": "https://chi2025.acm.org/subcommittees/selecting-a-subcommittee/#interacting_devices"
+				},
+				{
+					"name": "CHI Subcommittee (Blending Interaction)",
+					"link": "https://chi2025.acm.org/subcommittees/selecting-a-subcommittee/#blending_interaction"
+				},
+				{
+					"name": "UIST",
+					"link": "https://uist.acm.org/2025/cfp/"
+				}
+			],
+			"readings": [
+				{
+					"authors":["Brad Myers", "Scott E. Hudson", "Randy Pausch"],
+					"title": "Past, Present, and Future of User Interface Sotware Tools",
+					"venue": "TOCHI",
+					"volume": 7,
+					"issue": 1,
+					"date": "2000",
+					"link": "https://dl.acm.org/doi/abs/10.1145/344949.344959"
+				},
+				{
+					"authors": ["Hiroshi Ishii", "Brygg Ullmer"],
+					"title": "Tangible Bits: Towards Seamless Interfaces between People, Bits and Atoms",
+					"venue": "CHI",
+					"date": "1997",
+					"link": "https://dl.acm.org/doi/10.1145/258549.258715"
+				},
+				{
+					"authors": ["Jun Rekimoto"],
+					"title": "Pick-and-drop: a Direct Manipulation Technique for Multiple Computer Envirionments",
+					"venue": "UIST",
+					"date": "1997",
+					"link": "https://dl.acm.org/doi/10.1145/263407.263505"
+				},
+				{
+					"authors":["James Fogarty"],
+					"title": "Code and Contribution in Interactive Systems Research",
+					"venue": "#HCI.Tools Workshop at CHI",
+					"date": "2017",
+					"link": "https://homes.cs.washington.edu/~jfogarty/publications/workshop-chi2017-codeandcontribution.pdf",
+					"optional": true
+				}
+			]
+		},
+		{
+			"date": "2025-02-06",
+			"type": "class",
+			"title": "Discussion of User Interface Software & Technology",
+			"leaders": ["David", "Diego", "Arianna"],
 			"readings": [
 			]
 		},
