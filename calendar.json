@@ -161,6 +161,20 @@
 			"title": "Discussion of Health",
 			"leaders": ["Colin", "Ziqi"],
 			"readings": [
+				{
+					"authors": ["Yasaman S. Sefidgar", "Carla L. Castillo", "Shaan Chopra", "Liwei Jiang", "Tae Jones", "Anant Mittal", "Hyeyoung Ryu", "Jessica Schroeder", "Allison Cole", "Natalia Murinova", "Sean A. Munson", "James Fogarty"],
+					"title": "MigraineTracker: Examining Patient Experiences with Goal-Directed Self-Tracking for a Chronic Health Condition",
+					"venue": "CHI",
+					"date": "2024",
+					"link": "https://dl.acm.org/doi/full/10.1145/3613904.3642075"
+				},
+				{
+					"authors": ["Rachael M. Kang", "Tera L. Reynolds"],
+					"title": "\"This app said I had severe depression, and now I don’t know what to do\": the unintentional harms of mental health applications",
+					"venue": "CHI",
+					"date": "2024",
+					"link": "https://dl.acm.org/doi/full/10.1145/3613904.3642178"
+				}
 			]
 		},
 		{
