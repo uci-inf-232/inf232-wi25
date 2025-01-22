@@ -264,6 +264,20 @@
 			"title": "Discussion of Critical Computing, Sustainability, & Social Justice",
 			"leaders": ["Josa", "Sohyun"],
 			"readings": [
+				{
+					"authors": ["Luis Morais", "Georgia Panagiotidou", "Sarah Hayes", "Tatiana Losev", "Rebecca Noonan", "Uta Hinrichs"],
+					"title": "From Exploration to End of Life: Unpacking Sustainability in Physicalization Practices",
+					"venue": "CHI",
+					"date": "2024",
+					"link": "https://dl.acm.org/doi/10.1145/3613904.3642248"
+				},
+				{
+					"authors": ["Carlos Guerrero Milan", "Bettina Nissen", "Larissa Pschetz"],
+					"title": "Cosmovision Of Data: An Indigenous Approach to Technologies for Self-Determination",
+					"venue": "CHI",
+					"date": "2024",
+					"link": "https://dl.acm.org/doi/10.1145/3613904.3642598"
+				}
 			]
 		},
 		{
