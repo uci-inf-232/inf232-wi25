@@ -154,7 +154,8 @@
 					"link": "https://dl.acm.org/doi/abs/10.1145/3290605.3300475",
 					"optional": true
 				}
-			]
+			],
+			"slides": "slides/01_21_25-overview_health.pdf"
 		},
 		{
 			"date": "2025-01-23",
@@ -176,7 +177,8 @@
 					"date": "2024",
 					"link": "https://dl.acm.org/doi/full/10.1145/3613904.3642178"
 				}
-			]
+			],
+			"slides": "slides/01_23_25-discussion_health.pdf"
 		},
 		{
 			"date": "2025-01-27",
