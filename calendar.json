@@ -283,7 +283,7 @@
 			]
 		},
 		{
-			"date": "2025-01-30",
+			"date": "2025-02-04",
 			"type": "assignments",
 			"title": "Proposal 1 Groups",
 			"anchor": "proposal1groups"
@@ -351,14 +351,21 @@
 			"title": "Discussion of User Interface Software & Technology",
 			"leaders": ["David", "Diego", "Arianna"],
 			"readings": [
+				{
+					"authors": ["Shunta Suzuki", "Takashi Amesaka", "Hiroki Watanabe", "Buntarou Shizuki", "Yuta Sugiura"],
+					"title": "EarHover: Mid-Air Gesture Recognition for Hearables Using Sound Leakage Signals",
+					"venue": "UIST",
+					"date": "2024",
+					"link": "https://dl.acm.org/doi/10.1145/3654777.3676367"
+				},
+				{
+					"authors": ["Damien Masson", "Sylvain Malacria", "Géry Casiez", "Daniel Vogel"],
+					"title": "Cosmovision Of Data: An Indigenous Approach to Technologies for Self-Determination",
+					"venue": "CHI",
+					"date": "2024",
+					"link": "https://dl.acm.org/doi/10.1145/3613904.3642462"
+				}
 			]
-		},
-		{
-			"date": "2025-02-07",
-			"type": "assignments",
-			"title": "Proposal 1 Draft",
-			"anchor": "proposal1draft",
-			"link": "https://canvas.eee.uci.edu/courses/69569/assignments/1511076"
 		},
 		{
 			"date": "2025-02-11",
@@ -418,10 +425,11 @@
 			]
 		},
 		{
-			"date": "2025-02-11",
+			"date": "2025-02-13",
 			"type": "assignments",
-			"title": "Peer Feedback on Proposal 1",
-			"anchor": "proposal1feedback"
+			"title": "Proposal 1 Draft",
+			"anchor": "proposal1draft",
+			"link": "https://canvas.eee.uci.edu/courses/69569/assignments/1511076"
 		},
 		{
 			"date": "2025-02-13",
@@ -432,11 +440,10 @@
 			]
 		},
 		{
-			"date": "2025-02-21",
+			"date": "2025-02-18",
 			"type": "assignments",
-			"title": "Proposal 1 Final Submission",
-			"anchor": "proposal1final",
-			"link": "https://canvas.eee.uci.edu/courses/69569/assignments/1511074"
+			"title": "Peer Feedback on Proposal 1",
+			"anchor": "proposal1feedback"
 		},
 		{
 			"date": "2025-02-18",
@@ -483,10 +490,11 @@
 			]
 		},
 		{
-			"date": "2025-02-28",
+			"date": "2025-02-24",
 			"type": "assignments",
-			"title": "Proposal 2 Groups",
-			"anchor": "proposal2groups"
+			"title": "Proposal 1 Final Submission",
+			"anchor": "proposal1final",
+			"link": "https://canvas.eee.uci.edu/courses/69569/assignments/1511074"
 		},
 		{
 			"date": "2025-02-25",
@@ -539,18 +547,17 @@
 		},
 		{
 			"date": "2025-02-27",
+			"type": "assignments",
+			"title": "Proposal 2 Groups",
+			"anchor": "proposal2groups"
+		},
+		{
+			"date": "2025-02-27",
 			"type": "class",
 			"title": "Discussion of Interaction Beyond the Individual",
 			"leaders": ["Toby", "Yiliang"],
 			"readings": [
 			]
-		},
-		{
-			"date": "2025-03-07",
-			"type": "assignments",
-			"title": "Proposal 2 Draft",
-			"anchor": "proposal2draft",
-			"link": "https://canvas.eee.uci.edu/courses/69569/assignments/1511078"
 		},
 		{
 			"date": "2025-03-04",
@@ -579,6 +586,13 @@
 					"link": "https://chiplay.acm.org/2025/full-papers/"
 				}
 			]
+		},
+		{
+			"date": "2025-03-06",
+			"type": "assignments",
+			"title": "Proposal 2 Draft",
+			"anchor": "proposal2draft",
+			"link": "https://canvas.eee.uci.edu/courses/69569/assignments/1511078"
 		},
 		{
 			"date": "2025-03-06",
