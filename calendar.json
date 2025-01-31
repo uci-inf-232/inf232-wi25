@@ -258,7 +258,8 @@
 					"link": "https://dl.acm.org/doi/abs/10.1145/3274357",
 					"optional": true
 				}
-			]
+			],
+			"slides": "slides/01_28_25-overview_critical.pdf"
 		},
 		{
 			"date": "2025-01-30",
@@ -280,7 +281,8 @@
 					"date": "2024",
 					"link": "https://dl.acm.org/doi/10.1145/3613904.3642598"
 				}
-			]
+			],
+			"slides": "slides/01_30_25-discussion_critical.pdf"
 		},
 		{
 			"date": "2025-02-04",
