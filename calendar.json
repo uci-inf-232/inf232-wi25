@@ -439,6 +439,20 @@
 			"title": "Discussion of Accessibility & Aging",
 			"leaders": ["Dwayne", "Monica"],
 			"readings": [
+				{
+					"authors": ["Paul T. Chiou", "Ali S. Alotaibi", "William G.J. Halfond"],
+					"title": "BAGEL: An Approach to Automatically Detect Navigation-Based Web Accessibility Barriers for Keyboard Users",
+					"date": "2023",
+					"venue": "CHI",
+					"link": "https://dl.acm.org/doi/full/10.1145/3544548.3580749"
+				},
+				{
+					"authors": ["Emma J. McDonnell", "Leah Findlater"],
+					"title": "Envisioning Collective Communication Access: A Theoretically-Grounded Review of Captioning Literature from 2013-2023",
+					"date": "2024",
+					"venue": "ASSETS",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3663548.3675649"
+				}
 			]
 		},
 		{
