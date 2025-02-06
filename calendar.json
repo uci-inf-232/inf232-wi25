@@ -362,7 +362,7 @@
 				},
 				{
 					"authors": ["Damien Masson", "Sylvain Malacria", "Géry Casiez", "Daniel Vogel"],
-					"title": "Cosmovision Of Data: An Indigenous Approach to Technologies for Self-Determination",
+					"title": "DirectGPT: A Direct Manipulation Interface to Interact with Large Language Models",
 					"venue": "CHI",
 					"date": "2024",
 					"link": "https://dl.acm.org/doi/10.1145/3613904.3642462"
