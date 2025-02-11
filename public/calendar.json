@@ -503,6 +503,20 @@
 			"title": "Discussion of Privacy & Security",
 			"leaders": ["Gabrielle", "Weijun", "Ann-Cathrin"],
 			"readings": [
+				{
+					"authors": ["Hao-Ping (Hank) Lee", "Yu-Ju Yang", "Thomas Serban Von Davier", "Jodi Forlizzi", "Sauvik Das"],
+					"title": "Deepfakes, Phrenology, Surveillance, and More! A Taxonomy of AI Privacy Risks",
+					"date": "2024",
+					"venue": "CHI",
+					"link": "https://dl.acm.org/doi/10.1145/3613904.3642116"
+				},
+				{
+					"authors": ["Juliane Schmuser", "Harshini Sri Ramulu", "Noah Wohler", "Christian Stransky", "Felix Bensmann", "Dimitar Dimitrov", "Sebastian Schellhammer", "Dominik Wermke",  "Stefan Dietze", "Yasemin Acar", "Sascha Fahl"],
+					"title": "Analyzing Security and Privacy Advice During the 2022 Russian Invasion of Ukraine on Twitter",
+					"date": "2024",
+					"venue": "CHI",
+					"link": "https://dl.acm.org/doi/10.1145/3613904.3642826"
+				}
 			]
 		},
 		{
@@ -648,7 +662,7 @@
 			"date": "2025-03-11",
 			"type": "class",
 			"title": "My First CHI Paper",
-			"leaders": ["TBD"],
+			"leaders": ["Justine Bautista", "Jaime Lee", "Lika Liu", "Nai-Yun Cheng"],
 			"readings": [
 			]
 		},
