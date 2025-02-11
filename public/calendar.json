@@ -345,7 +345,8 @@
 					"link": "https://homes.cs.washington.edu/~jfogarty/publications/workshop-chi2017-codeandcontribution.pdf",
 					"optional": true
 				}
-			]
+			],
+			"slides": "slides/02_04_25-overview_uist.pdf"
 		},
 		{
 			"date": "2025-02-06",
@@ -367,7 +368,8 @@
 					"date": "2024",
 					"link": "https://dl.acm.org/doi/10.1145/3613904.3642462"
 				}
-			]
+			],
+			"slides": "slides/02_06_25-discussion_uist.pdf"
 		},
 		{
 			"date": "2025-02-11",
