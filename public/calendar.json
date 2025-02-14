@@ -589,6 +589,20 @@
 			"title": "Discussion of Interaction Beyond the Individual",
 			"leaders": ["Toby", "Yiliang"],
 			"readings": [
+				{
+					"title": "Measuring User-Moderator Alignment on r/ChangeMyView",
+					"authors": ["Vinay Koshy", "Tanvi Bajpai", "Eshwar Chandraesekharan", "Hari Sundaram", "Karrie Karahalios"],
+					"venue": "PACM HCI: CSCW",
+					"date": "2023",
+					"link": "https://dl.acm.org/doi/10.1145/3610077"
+				},
+				{
+					"title": "\"We're Not in That Circle of Misinformation\": Understanding Community-Based Trusted Messengers Through Cultural Code-Switching",
+					"authors": ["Amy Z. Chen", "Chaeeun Park", "Asantewaa Darkwa", "Rhonda C. Holliday", "Michael L. Best"],
+					"venue": "PACM HCI: CSCW",
+					"date": "2024",
+					"link": "https://dl.acm.org/doi/10.1145/3637429"
+				}
 			]
 		},
 		{
