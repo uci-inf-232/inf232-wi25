@@ -426,7 +426,8 @@
 					"link": "https://dl.acm.org/doi/abs/10.1145/3234695.3236348",
 					"optional": true
 				}
-			]
+			],
+			"slides": "slides/02_11_25-accessibility.pdf"
 		},
 		{
 			"date": "2025-02-13",
@@ -455,7 +456,8 @@
 					"venue": "ASSETS",
 					"link": "https://dl.acm.org/doi/abs/10.1145/3663548.3675649"
 				}
-			]
+			],
+			"slides": "slides/02_11_25-accessibility.pdf"
 		},
 		{
 			"date": "2025-02-18",
