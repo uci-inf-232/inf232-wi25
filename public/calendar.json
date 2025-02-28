@@ -579,7 +579,8 @@
 					"link": "https://dl.acm.org/doi/abs/10.1145/1979742.1979618",
 					"optional": true
 				}
-			]
+			],
+			"slides": "slides/02_25_25-overview_cscw.pdf"
 		},
 		{
 			"date": "2025-02-27",
@@ -607,7 +608,8 @@
 					"date": "2024",
 					"link": "https://dl.acm.org/doi/10.1145/3637429"
 				}
-			]
+			],
+			"slides": "slides/02_27_25-discussion_cscw.pdf"
 		},
 		{
 			"date": "2025-03-04",
@@ -756,8 +758,33 @@
 			"date": "2025-03-11",
 			"type": "class",
 			"title": "My First CHI Paper",
+			"notes": "Pick two to read.",
 			"leaders": ["Justine Bautista", "Jaime Lee", "Lika Liu", "Nai-Yun Cheng"],
 			"readings": [
+				{
+					"title": "Healing Through Stories: Co-designing Digital Mental Health with Asian Americans",
+					"authors": ["Justine Rose Bautista", "Novia Wong", "Madhu Reddy", "Stephen M. Schueller"],
+					"venue": "CHI",
+					"date": "2025, to appear"
+				},
+				{
+					"title": "Understanding Mental Wellbeing and Tools for Support with Taiwanese Emerging Adults: An Eastern Cultural Perspective",
+					"authors": ["Nai-Yu Cheng", "Novia Wong", "Madhu Reddy"],
+					"venue": "CHI",
+					"date": "2025, to appear"
+				},
+				{
+					"title": "Understanding Adolescents’ Perceptions of Benefits and Risks in Health AI Technologies through Design Fiction",
+					"authors": ["Jamie Lee", "Kyuha Jung", "Erin Gregg Newman", "Emilie Chow", "Yunan Chen"],
+					"venue": "CHI",
+					"date": "2025, to appear"
+				},
+				{
+					"title": "Meditating Together: Practices, Benefits and Challenges of Meditation on Social Virtual Reality",
+					"authors": ["Lika Haizhou Liu", "Xi Lu", "Pei-Chun Chiang", "Daniel A. Epstein", "Kurt Squire"],
+					"venue": "CHI",
+					"date": "2025, to appear"
+				}
 			]
 		},
 		{
